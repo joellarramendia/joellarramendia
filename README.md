@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Full Stack Developer | React & TypeScript Enthusiast.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=5000&width=435&lines=Full+Stack+Developer+%7C+React+%26+TypeScript+Enthusiast." alt="Typing SVG" /></a>
 
 ###
 
