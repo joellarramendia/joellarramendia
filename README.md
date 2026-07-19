@@ -22,11 +22,12 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=1000&pause=5000&multiline=true&width=942&lines=Full+Stack+Developer+%7C+React+%26+TypeScript+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=1000&pause=5000&multiline=true&width=942&lines=Full+Stack+Developer+%7C+React+%26+TypeScript" alt="Typing SVG" /></a>
 
 ###
 
-<p align="left">Full Stack Developer focused on the React and TypeScript ecosystem. My focus is on building web applications, with a strong emphasis on strict typing, performance with Vite, and scalability through REST API architectures with Node.js.<br>As a Linux enthusiast, i work exclusively in a highly customized Arch Linux environment using Hyprland. I bring this mindset of optimization and complete control over the tools to my projects, where i prioritize efficiency and clean code.</p>
+<p align="left">Desarrollador Full Stack enfocado en el ecosistema de React y TypeScript. Mi enfoque principal es la construcción de aplicaciones web dinámicas y eficientes, con un fuerte énfasis en el tipado estricto, el rendimiento optimizado y la escalabilidad a través de arquitecturas de APIs REST con Node.js.
+Traslado mi mentalidad de optimización y control absoluto sobre las herramientas a cada uno de mis proyectos, priorizando siempre la eficiencia, la escalabilidad y el código limpio.</p>
 
 ###
 
